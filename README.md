@@ -1,11 +1,10 @@
 # Project Name: **Excursion**
----
-#Technology Used:
+### Technology Used
 - HTML
 - CSS
 
 ---
-# Project Link
+### Project Link
 > [**Excursion**](https://ganeshyevle.github.io/excursion/)
 
 
